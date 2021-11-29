@@ -6,8 +6,6 @@ This repository contains documentation regarding the MongoDB PHP Library. This
 documentation builds on the work of the `MongoDB
 Manual <http://docs.mongodb.org/manual/>`_.
 
-Building the documentation requires `giza 
-<https://pypi.python.org/pypi/giza/>`_. 
 
 If you already have `giza <https://pypi.python.org/pypi/giza/>`_
 installed, you can download and build this documentation locally with
