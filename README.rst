@@ -9,7 +9,9 @@ Manual <http://docs.mongodb.org/manual/>`_.
 
 If you already have `giza <https://pypi.python.org/pypi/giza/>`_
 installed, you can download and build this documentation locally with
-the following command: ::
+the following command:
+
+.. code-block:: sh
 
      git clone git://github.com/mongodb/docs-php-library
      cd docs-php-library/
