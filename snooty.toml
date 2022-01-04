@@ -1,2 +1,9 @@
 name = "php-library"
 title = "MongoDB PHP Library"
+
+intersphinx = ["https://docs.mongodb.com/manual/objects.inv", 
+               "https://docs.mongodb.com/database-tools/objects.inv"]
+
+[substitutions]
+php-library = "MongoDB PHP Library"
+
